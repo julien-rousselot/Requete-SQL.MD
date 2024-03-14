@@ -1,4 +1,4 @@
-## Les classes (POO) :
+# Les classes (POO) :
   #### Principe/Structure/Création 
 Un objet est la représentation informatique d'une entité matérielle ou immatérielle qui a des proporités/données et/ou des actions.
 
