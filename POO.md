@@ -79,7 +79,7 @@ getPropriété1()
 
 ```
     public function setPropriété1($valeur1) 
-}
+{
     if(condition)
     $this->propriété1 = $valeur1;
     return $this;
